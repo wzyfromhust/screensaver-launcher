@@ -15,7 +15,6 @@
   <a href="#技术栈--tech-stack">技术栈</a> •
   <a href="#安装--installation">安装</a> •
   <a href="#为什么使用--why-use-it">为什么使用</a> •
-  <a href="#截图--screenshots">截图</a> •
   <a href="#许可证--license">许可证</a>
 </p>
 
@@ -69,7 +68,7 @@ This project uses the following technologies and frameworks:
 
 ### 方法一：下载编译好的应用
 
-1. 从 [Releases](https://github.com/yourusername/screensaver-launcher/releases) 页面下载最新版本
+1. 从 [Releases](https://github.com/wzyfromhust/screensaver-launcher/releases) 页面下载最新版本
 2. 将应用拖拽到应用程序文件夹
 3. 首次运行时，可能需要在系统偏好设置中允许应用运行
 
@@ -77,7 +76,7 @@ This project uses the following technologies and frameworks:
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/screensaver-launcher.git
+git clone https://github.com/wzyfromhust/screensaver-launcher.git
 cd screensaver-launcher
 
 # 编译应用
@@ -91,7 +90,7 @@ cp -R "屏幕保护启动器.app" /Applications/
 
 ### Method 1: Download Compiled Application
 
-1. Download the latest version from the [Releases](https://github.com/yourusername/screensaver-launcher/releases) page
+1. Download the latest version from the [Releases](https://github.com/wzyfromhust/screensaver-launcher/releases) page
 2. Drag the application to your Applications folder
 3. When running for the first time, you may need to allow the application to run in System Preferences
 
@@ -99,7 +98,7 @@ cp -R "屏幕保护启动器.app" /Applications/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/screensaver-launcher.git
+git clone https://github.com/wzyfromhust/screensaver-launcher.git
 cd screensaver-launcher
 
 # Build the application
@@ -142,16 +141,6 @@ The built-in methods (such as hot corners or timeout waiting) are often not intu
 ### Focused, Minimalist Design
 
 This application focuses on a single function and does it extremely well, following the Unix philosophy of "do one thing and do it well." The simple yet elegant interface design makes the usage experience pleasant and efficient.
-
-## 截图 | Screenshots
-
-<div align="center">
-  <img src="./screenshots/main.png" alt="主界面" width="600" />
-  <p><em>主界面 | Main Interface</em></p>
-
-  <img src="./screenshots/settings.png" alt="设置界面" width="600" />
-  <p><em>设置界面 | Settings Interface</em></p>
-</div>
 
 ## 许可证 | License
 
